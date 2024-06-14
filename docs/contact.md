@@ -10,9 +10,9 @@ Thank you for reaching out to us! We're here to help. Please find our contact de
 
 <div class="grid cards" markdown>
 
--   :material-email: [Email](mailto:reachus@placeofworship.in)
--   :simple-linkedin: [LinkedIn](https://linkedin.com/company/placeofworship)
--   :simple-github: [GitHub](https://github.com/placeofworship)
+-   :material-email: [Email](mailto:reachus@bashe.in)
+-   :simple-linkedin: [LinkedIn](https://www.linkedin.com/showcase/bashe)
+-   :simple-github: [GitHub](https://github.com/bashe-india)
 
 </div>
 
